@@ -1,0 +1,17 @@
+Level,Room,Type,Outdoor,Net area (m2),Gross area (m2),Width (m),Depth (m),Net area (sq ft),Width,Depth
+1,Dining,dining,no,7.5,9.28,2.64,2.84,81,"8'-8""","9'-4"""
+1,Kitchen,kitchen,no,10.39,12.48,2.34,4.44,112,"7'-8""","14'-7"""
+1,Living Room,living,no,15.15,17.69,2.64,5.74,163,"8'-8""","18'-10"""
+1,Powder Room,half_bath,no,3.84,5.2,2.34,1.64,41,"7'-8""","5'-5"""
+1,Stair,stair,no,5.57,6.5,2.34,2.38,60,"7'-8""","7'-10"""
+2,Bath 1,ensuite,no,3.51,4.76,1.44,2.44,38,"4'-9""","8'-0"""
+2,Bath 2,bathroom,no,3.84,5.2,2.34,1.64,41,"7'-8""","5'-5"""
+2,Bedroom 1,primary_bedroom,no,11.47,13.68,3.54,3.24,123,"11'-7""","10'-8"""
+2,Bedroom 2,bedroom,no,10.93,13.05,2.64,4.14,118,"8'-8""","13'-7"""
+2,Laundry Closet,laundry,no,2.71,3.4,1.44,1.88,29,"4'-9""","6'-2"""
+2,Stair,stair,no,5.57,6.5,2.34,2.38,60,"7'-8""","7'-10"""
+2,Upper Hall,hall,no,3.82,4.56,3.54,1.08,41,"11'-7""","3'-7"""
+
+Total gross (indoor),,,,,102.3
+Total net (indoor),,,,84.3
+CONCEPT DESIGN — NOT FOR CONSTRUCTION OR PERMIT. Generated with AI and may contain errors. Verify all dimensions and code requirements with a licensed architect or engineer.

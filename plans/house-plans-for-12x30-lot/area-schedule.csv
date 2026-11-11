@@ -1,0 +1,23 @@
+Level,Room,Type,Outdoor,Net area (m2),Gross area (m2),Width (m),Depth (m)
+1,2-Car Garage,garage,no,31.77,35.96,5.84,5.44
+1,Dining,dining,no,9.36,10.85,3.14,2.98
+1,Entrance Hall,foyer,no,7.89,9.3,2.88,2.74
+1,Guest Bedroom,guest,no,9.36,10.85,3.14,2.98
+1,Kitchen,kitchen,no,11.89,14.57,4.34,2.74
+1,Laundry,laundry,no,4.11,4.65,1.38,2.98
+1,Living Room,living,no,18.71,22.04,3.44,5.44
+1,Shower Room,bathroom,no,4.11,4.65,1.38,2.98
+1,Stair,stair,no,5.32,7.13,1.94,2.74
+2,Bathroom,bathroom,no,4.24,5.28,2.04,2.08
+2,Bedroom 2,bedroom,no,9.97,12.4,3.64,2.74
+2,Bedroom 3,bedroom,no,9.81,11.47,3.58,2.74
+2,Primary Bath,ensuite,no,5.88,7.2,2.04,2.88
+2,Primary Bedroom,primary_bedroom,no,19.84,23.56,2.74,7.24
+2,Stair,stair,no,5.32,7.13,1.94,2.74
+2,Upper Hall,hall,no,8.84,13.0,9.4,0.94
+2,Walk-in Closet,walk_in_closet,no,4.16,5.76,2.04,2.04
+2,Roof Terrace,terrace,yes,34.2,34.2,4.5,7.6
+
+Total gross (indoor),,,,,205.8
+Total net (indoor),,,,170.57
+CONCEPT DESIGN — NOT FOR CONSTRUCTION OR PERMIT. Generated with AI and may contain errors. Verify all dimensions and code requirements with a licensed architect or engineer.

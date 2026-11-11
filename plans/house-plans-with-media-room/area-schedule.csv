@@ -1,0 +1,30 @@
+Level,Room,Type,Outdoor,Net area (m2),Gross area (m2),Width (m),Depth (m),Net area (sq ft),Width,Depth
+1,3-Car Garage,garage,no,47.17,52.26,7.44,6.34,508,"24'-5""","20'-10"""
+1,Dining,dining,no,12.33,15.04,2.84,4.34,133,"9'-4""","14'-3"""
+1,Foyer,foyer,no,7.07,9.24,3.84,1.84,76,"12'-7""","6'-0"""
+1,Great Room,living,no,37.06,41.83,8.54,4.34,399,"28'-0""","14'-3"""
+1,Guest Ensuite,ensuite,no,5.74,7.0,2.14,2.68,62,"7'-0""","8'-10"""
+1,Guest Suite,guest,no,12.83,15.54,3.84,3.34,138,"12'-7""","10'-11"""
+1,Hall,hall,no,8.5,9.35,1.58,5.38,91,"5'-2""","17'-8"""
+1,Kitchen,kitchen,no,19.2,21.06,7.44,2.58,207,"24'-5""","8'-6"""
+1,Media Room,media,no,21.49,23.65,4.18,5.14,231,"13'-9""","16'-10"""
+1,Mudroom / Laundry,mudroom,no,7.17,7.83,2.78,2.58,77,"9'-1""","8'-6"""
+1,Pantry,pantry,no,4.51,5.16,4.18,1.08,49,"13'-9""","3'-7"""
+1,Powder Room,half_bath,no,3.3,3.78,1.28,2.58,36,"4'-2""","8'-6"""
+1,Stair,stair,no,5.52,6.75,2.14,2.58,59,"7'-0""","8'-6"""
+1,Front Porch,porch,yes,11.34,11.34,4.2,2.7,122,"13'-9""","8'-10"""
+2,Bedroom 2,bedroom,no,14.91,16.64,3.08,4.84,160,"10'-1""","15'-11"""
+2,Bedroom 3,bedroom,no,12.59,14.85,5.38,2.34,136,"17'-8""","7'-8"""
+2,Laundry,laundry,no,4.87,5.94,2.08,2.34,52,"6'-10""","7'-8"""
+2,Loft,playroom,no,25.36,29.12,5.24,4.84,273,"17'-2""","15'-11"""
+2,Primary Bath,ensuite,no,11.04,12.48,2.28,4.84,119,"7'-6""","15'-11"""
+2,Primary Bedroom,primary_bedroom,no,29.1,33.15,4.74,6.14,313,"15'-7""","20'-2"""
+2,Primary Closet,walk_in_closet,no,7.11,9.18,3.04,2.34,77,"10'-0""","7'-8"""
+2,Shared Bath,bathroom,no,6.04,7.29,2.58,2.34,65,"8'-6""","7'-8"""
+2,Stair,stair,no,5.01,6.75,2.14,2.34,54,"7'-0""","7'-8"""
+2,Upper Hall,hall,no,12.79,14.56,10.84,1.18,138,"35'-7""","3'-10"""
+2,Roof Below,terrace,yes,79.87,79.87,16.3,4.9,860,"53'-6""","16'-1"""
+
+Total gross (indoor),,,,,368.45
+Total net (indoor),,,,320.69
+CONCEPT DESIGN — NOT FOR CONSTRUCTION OR PERMIT. Generated with AI and may contain errors. Verify all dimensions and code requirements with a licensed architect or engineer.

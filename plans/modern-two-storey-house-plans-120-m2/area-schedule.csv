@@ -1,0 +1,20 @@
+Level,Room,Type,Outdoor,Net area (m2),Gross area (m2),Width (m),Depth (m)
+1,Covered Carport,garage,no,13.03,15.96,2.44,5.34
+1,Dining,dining,no,7.02,9.12,2.04,3.44
+1,Entry Hall,foyer,no,5.39,6.4,1.48,3.64
+1,Guest WC,wc,no,2.19,2.56,1.48,1.48
+1,Kitchen,kitchen,no,8.53,9.88,2.48,3.44
+1,Laundry,laundry,no,3.32,4.16,1.48,2.24
+1,Living Room,living,no,18.75,22.0,4.64,4.04
+1,Stair,stair,no,5.22,7.0,2.44,2.14
+2,Bathroom,bathroom,no,5.09,6.25,2.38,2.14
+2,Bedroom 1,primary_bedroom,no,12.72,16.4,3.74,3.4
+2,Bedroom 2,bedroom,no,9.75,12.18,2.54,3.84
+2,Bedroom 3,bedroom,no,9.75,12.18,2.54,3.84
+2,Stair,stair,no,5.22,7.0,2.44,2.14
+2,Upper Hall,hall,no,6.82,7.95,4.94,1.38
+2,Balcony,terrace,yes,15.12,15.12,3.6,4.2
+
+Total gross (indoor),,,,,139.04
+Total net (indoor),,,,112.79
+CONCEPT DESIGN — NOT FOR CONSTRUCTION OR PERMIT. Generated with AI and may contain errors. Verify all dimensions and code requirements with a licensed architect or engineer.

@@ -1,0 +1,17 @@
+Level,Room,Type,Outdoor,Net area (m2),Gross area (m2),Width (m),Depth (m)
+1,Banheiro Social,bathroom,no,4.24,5.28,2.08,2.04
+1,Banheiro da Suíte,ensuite,no,4.53,6.27,2.94,1.54
+1,Corredor,hall,no,5.37,5.94,2.08,2.58
+1,Cozinha,kitchen,no,7.88,10.36,3.58,2.2
+1,Quarto 2,bedroom,no,9.64,11.22,2.94,3.28
+1,Quarto 3,bedroom,no,9.53,11.88,2.94,3.24
+1,Sala de Estar,living,no,20.1,23.46,4.24,4.74
+1,Sala de Jantar,dining,no,9.43,11.78,2.74,3.44
+1,Suíte,primary_bedroom,no,12.32,14.06,3.58,3.44
+1,Área de Serviço,laundry,no,5.15,7.56,2.34,2.2
+1,Carport (2 cars),porch,yes,28.8,28.8,6.4,4.5
+1,Varanda Gourmet,deck,yes,10.24,10.24,6.4,1.6
+
+Total gross (indoor),,,,,107.81
+Total net (indoor),,,,88.17
+CONCEPT DESIGN — NOT FOR CONSTRUCTION OR PERMIT. Generated with AI and may contain errors. Verify all dimensions and code requirements with a licensed architect or engineer.

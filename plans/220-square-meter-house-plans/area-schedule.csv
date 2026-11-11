@@ -1,0 +1,27 @@
+Level,Room,Type,Outdoor,Net area (m2),Gross area (m2),Width (m),Depth (m)
+1,2-Car Garage,garage,no,32.37,36.6,5.74,5.64
+1,Dining,dining,no,10.08,11.78,3.68,2.74
+1,Family Room,family,no,15.68,18.72,3.24,4.84
+1,Foyer,foyer,no,5.08,6.16,2.08,2.44
+1,Guest WC,wc,no,2.64,3.36,1.08,2.44
+1,Hall,hall,no,5.43,6.49,5.54,0.98
+1,Kitchen with Island,kitchen,no,12.82,14.88,4.68,2.74
+1,Living Room,living,no,24.14,26.4,4.28,5.64
+1,Stair,stair,no,5.22,7.0,2.14,2.44
+1,Study,study,no,10.55,11.96,2.18,4.84
+1,Utility Room,utility,no,4.22,5.89,1.54,2.74
+2,Bathroom 2,bathroom,no,4.59,5.6,1.88,2.44
+2,Bathroom 3,bathroom,no,4.71,7.0,2.14,2.2
+2,Bedroom 2,bedroom,no,12.25,15.0,2.64,4.64
+2,Bedroom 3,bedroom,no,10.93,12.88,4.48,2.44
+2,Bedroom 4,bedroom,no,10.3,13.44,4.68,2.2
+2,Dressing Room,walk_in_closet,no,6.53,7.7,3.14,2.08
+2,Primary Bath,ensuite,no,7.66,9.8,3.14,2.44
+2,Primary Bedroom,primary_bedroom,no,17.08,19.0,3.68,4.64
+2,Stair,stair,no,5.22,7.0,2.14,2.44
+2,Upper Hall,hall,no,11.45,13.39,9.7,1.18
+2,Roof Below,terrace,yes,38.43,38.43,6.1,6.3
+
+Total gross (indoor),,,,,260.05
+Total net (indoor),,,,218.94
+CONCEPT DESIGN — NOT FOR CONSTRUCTION OR PERMIT. Generated with AI and may contain errors. Verify all dimensions and code requirements with a licensed architect or engineer.

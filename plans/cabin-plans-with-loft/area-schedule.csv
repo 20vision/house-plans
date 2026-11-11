@@ -1,0 +1,18 @@
+Level,Room,Type,Outdoor,Net area (m2),Gross area (m2),Width (m),Depth (m),Net area (sq ft),Width,Depth
+1,Bedroom,bedroom,no,11.07,13.64,4.04,2.74,119,"13'-3""","9'-0"""
+1,Full Bath,bathroom,no,4.15,5.75,1.94,2.14,45,"6'-4""","7'-0"""
+1,Hall,hall,no,4.36,5.28,4.04,1.08,47,"13'-3""","3'-7"""
+1,Kitchen,kitchen,no,10.57,13.25,4.94,2.14,114,"16'-2""","7'-0"""
+1,Laundry,laundry,no,3.81,4.75,1.78,2.14,41,"5'-10""","7'-0"""
+1,Living Room,living,no,18.68,21.93,4.74,3.94,201,"15'-7""","12'-11"""
+1,Stair,stair,no,4.45,6.75,2.34,1.9,48,"7'-8""","6'-3"""
+1,Covered Porch,porch,yes,11.61,11.61,2.7,4.3,125,"8'-10""","14'-1"""
+2,Half Bath,half_bath,no,2.43,3.78,2.34,1.04,26,"7'-8""","3'-5"""
+2,Loft Landing,hall,no,6.51,7.83,2.34,2.78,70,"7'-8""","9'-1"""
+2,Sleeping Loft,bedroom,no,16.37,20.4,2.64,6.2,176,"8'-8""","20'-4"""
+2,Stair,stair,no,5.01,6.75,2.34,2.14,54,"7'-8""","7'-0"""
+2,Roof Below,terrace,yes,44.2,44.2,6.5,6.8,476,"21'-4""","22'-4"""
+
+Total gross (indoor),,,,,110.11
+Total net (indoor),,,,87.4
+CONCEPT DESIGN — NOT FOR CONSTRUCTION OR PERMIT. Generated with AI and may contain errors. Verify all dimensions and code requirements with a licensed architect or engineer.

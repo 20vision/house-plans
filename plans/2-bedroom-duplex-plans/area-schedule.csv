@@ -1,0 +1,35 @@
+Unit,Level,Room,Type,Outdoor,Net area (m2),Gross area (m2),Width (m),Depth (m),Net area (sq ft),Width,Depth
+A,1,Dining,dining,no,5.79,7.68,2.84,2.04,62,"9'-4""","6'-8"""
+A,1,Foyer,foyer,no,3.54,5.1,1.34,2.64,38,"4'-5""","8'-8"""
+A,1,Kitchen,kitchen,no,7.33,8.64,2.84,2.58,79,"9'-4""","8'-6"""
+A,1,Living Room,living,no,13.24,15.58,3.54,3.74,143,"11'-7""","12'-3"""
+A,1,Powder Room,half_bath,no,1.91,2.94,1.84,1.04,21,"6'-0""","3'-5"""
+A,1,Stair,stair,no,4.66,6.4,2.84,1.64,50,"9'-4""","5'-5"""
+A,1,Front Porch,porch,yes,3.36,3.36,2.1,1.6,36,"6'-11""","5'-3"""
+A,2,Bath,bathroom,no,5.81,7.6,3.54,1.64,63,"11'-7""","5'-5"""
+A,2,Bedroom 1,primary_bedroom,no,11.43,13.65,3.64,3.14,123,"11'-11""","10'-4"""
+A,2,Bedroom 2,bedroom,no,8.6,10.85,2.74,3.14,93,"9'-0""","10'-4"""
+A,2,Laundry,laundry,no,3.32,4.0,2.24,1.48,36,"7'-4""","4'-10"""
+A,2,Stair,stair,no,4.66,6.4,2.84,1.64,50,"9'-4""","5'-5"""
+A,2,Upper Hall,hall,no,6.13,7.2,4.14,1.48,66,"13'-7""","4'-10"""
+B,1,Dining,dining,no,5.79,7.68,2.84,2.04,62,"9'-4""","6'-8"""
+B,1,Foyer,foyer,no,3.54,5.1,1.34,2.64,38,"4'-5""","8'-8"""
+B,1,Kitchen,kitchen,no,7.33,8.64,2.84,2.58,79,"9'-4""","8'-6"""
+B,1,Living Room,living,no,13.24,15.58,3.54,3.74,143,"11'-7""","12'-3"""
+B,1,Powder Room,half_bath,no,1.91,2.94,1.84,1.04,21,"6'-0""","3'-5"""
+B,1,Stair,stair,no,4.66,6.4,2.84,1.64,50,"9'-4""","5'-5"""
+B,1,Front Porch,porch,yes,3.36,3.36,2.1,1.6,36,"6'-11""","5'-3"""
+B,2,Bath,bathroom,no,5.81,7.6,3.54,1.64,63,"11'-7""","5'-5"""
+B,2,Bedroom 1,primary_bedroom,no,11.43,13.65,3.64,3.14,123,"11'-11""","10'-4"""
+B,2,Bedroom 2,bedroom,no,8.6,10.85,2.74,3.14,93,"9'-0""","10'-4"""
+B,2,Laundry,laundry,no,3.32,4.0,2.24,1.48,36,"7'-4""","4'-10"""
+B,2,Stair,stair,no,4.66,6.4,2.84,1.64,50,"9'-4""","5'-5"""
+B,2,Upper Hall,hall,no,6.13,7.2,4.14,1.48,66,"13'-7""","4'-10"""
+
+Unit A gross (indoor),,,,,,96.04
+Unit A net (indoor),,,,,76.41
+Unit B gross (indoor),,,,,,96.04
+Unit B net (indoor),,,,,76.41
+Total gross (indoor),,,,,,192.08
+Total net (indoor),,,,,152.82
+CONCEPT DESIGN — NOT FOR CONSTRUCTION OR PERMIT. Generated with AI and may contain errors. Verify all dimensions and code requirements with a licensed architect or engineer.

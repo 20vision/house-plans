@@ -1,0 +1,27 @@
+Level,Room,Type,Outdoor,Net area (m2),Gross area (m2),Width (m),Depth (m)
+1,Butler's Pantry,pantry,no,5.68,6.3,1.68,3.38
+1,Entry Hall,foyer,no,8.16,9.4,4.34,1.88
+1,Family Room,family,no,23.99,28.0,7.64,3.14
+1,Garage (2 cars),garage,no,33.1,37.4,6.44,5.14
+1,Kitchen,kitchen,no,13.18,16.0,2.84,4.64
+1,Laundry,laundry,no,5.06,6.08,2.84,1.78
+1,Meals,dining,no,11.07,13.6,3.64,3.04
+1,Powder Room,half_bath,no,2.59,3.0,1.38,1.88
+1,Stair,stair,no,5.15,7.0,1.64,3.14
+1,Theatre Room,media,no,12.81,14.7,4.08,3.14
+1,Alfresco,patio,yes,19.72,19.72,5.8,3.4
+2,Bathroom,bathroom,no,5.9,7.0,1.88,3.14
+2,Bedroom 2,bedroom,no,9.99,11.55,3.18,3.14
+2,Bedroom 3,bedroom,no,12.85,14.52,3.18,4.04
+2,Bedroom 4,bedroom,no,11.24,12.95,3.58,3.14
+2,Ensuite,ensuite,no,7.66,10.5,2.9,2.64
+2,Landing,hall,no,13.53,15.2,9.14,1.48
+2,Master Bedroom,primary_bedroom,no,18.15,20.65,3.14,5.78
+2,Rumpus Room,playroom,no,23.59,27.28,5.84,4.04
+2,Stair,stair,no,5.15,7.0,1.64,3.14
+2,Walk-in Robe,walk_in_closet,no,5.15,7.0,1.64,3.14
+2,Upper Terrace,terrace,yes,27.55,27.55,9.5,2.9
+
+Total gross (indoor),,,,,275.13
+Total net (indoor),,,,233.98
+CONCEPT DESIGN — NOT FOR CONSTRUCTION OR PERMIT. Generated with AI and may contain errors. Verify all dimensions and code requirements with a licensed architect or engineer.

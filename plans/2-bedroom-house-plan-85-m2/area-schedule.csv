@@ -1,0 +1,15 @@
+Level,Room,Type,Outdoor,Net area (m2),Gross area (m2),Width (m),Depth (m)
+1,Dining,dining,no,6.65,8.64,2.34,2.84
+1,Guest WC,wc,no,1.99,2.64,1.08,1.84
+1,Kitchen,kitchen,no,6.41,8.37,2.34,2.74
+1,Living Room / Entry,living,no,14.74,17.63,3.94,3.74
+1,Stair,stair,no,5.04,6.82,2.74,1.84
+2,Bathroom,bathroom,no,4.93,6.67,1.94,2.54
+2,Bedroom 1,primary_bedroom,no,10.76,13.26,3.54,3.04
+2,Bedroom 2,bedroom,no,10.25,12.71,2.74,3.74
+2,Landing,hall,no,3.76,4.64,1.48,2.54
+2,Stair,stair,no,5.04,6.82,2.74,1.84
+
+Total gross (indoor),,,,,88.2
+Total net (indoor),,,,69.56
+CONCEPT DESIGN — NOT FOR CONSTRUCTION OR PERMIT. Generated with AI and may contain errors. Verify all dimensions and code requirements with a licensed architect or engineer.

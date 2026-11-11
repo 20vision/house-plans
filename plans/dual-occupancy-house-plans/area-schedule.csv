@@ -1,0 +1,31 @@
+Unit,Level,Room,Type,Outdoor,Net area (m2),Gross area (m2),Width (m),Depth (m)
+A,1,Bathroom,bathroom,no,4.45,5.29,2.04,2.18
+A,1,Bedroom 1,primary_bedroom,no,11.07,13.26,3.64,3.04
+A,1,Bedroom 2,bedroom,no,8.76,10.2,2.88,3.04
+A,1,Dining,dining,no,8.63,10.88,2.84,3.04
+A,1,Entry,foyer,no,4.77,6.21,2.04,2.34
+A,1,Hall,hall,no,5.84,6.44,2.68,2.18
+A,1,Kitchen,kitchen,no,11.19,13.76,2.84,3.94
+A,1,Laundry,laundry,no,3.66,4.14,1.68,2.18
+A,1,Living,living,no,16.56,20.7,4.0,4.14
+A,1,Covered Alfresco,patio,yes,8.0,8.0,3.2,2.5
+A,1,Entry Porch,porch,yes,4.14,4.14,2.3,1.8
+B,1,Bathroom,bathroom,no,4.45,5.29,2.04,2.18
+B,1,Bedroom 1,primary_bedroom,no,11.07,13.26,3.64,3.04
+B,1,Bedroom 2,bedroom,no,8.76,10.2,2.88,3.04
+B,1,Dining,dining,no,8.63,10.88,2.84,3.04
+B,1,Entry,foyer,no,4.77,6.21,2.04,2.34
+B,1,Hall,hall,no,5.84,6.44,2.68,2.18
+B,1,Kitchen,kitchen,no,11.19,13.76,2.84,3.94
+B,1,Laundry,laundry,no,3.66,4.14,1.68,2.18
+B,1,Living,living,no,16.56,20.7,4.0,4.14
+B,1,Covered Alfresco,patio,yes,8.0,8.0,3.2,2.5
+B,1,Entry Porch,porch,yes,4.14,4.14,2.3,1.8
+
+Unit A gross (indoor),,,,,,90.88
+Unit A net (indoor),,,,,74.93
+Unit B gross (indoor),,,,,,90.88
+Unit B net (indoor),,,,,74.93
+Total gross (indoor),,,,,,181.76
+Total net (indoor),,,,,149.86
+CONCEPT DESIGN — NOT FOR CONSTRUCTION OR PERMIT. Generated with AI and may contain errors. Verify all dimensions and code requirements with a licensed architect or engineer.

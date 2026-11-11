@@ -1,0 +1,14 @@
+Level,Room,Type,Outdoor,Net area (m2),Gross area (m2),Width (m),Depth (m),Net area (sq ft),Width,Depth
+1,Bathroom,bathroom,no,3.67,4.75,2.38,1.54,40,"7'-10""","5'-1"""
+1,Bunk Room 1,bedroom,no,8.55,10.8,2.64,3.24,92,"8'-8""","10'-8"""
+1,Bunk Room 2,bedroom,no,8.55,10.8,2.64,3.24,92,"8'-8""","10'-8"""
+1,Gear Storage,storage,no,2.65,3.96,1.44,1.84,29,"4'-9""","6'-0"""
+1,Great Room (Wood Stove),living,no,20.89,24.36,5.44,3.84,225,"17'-10""","12'-7"""
+1,Hall,hall,no,3.76,4.25,2.38,1.58,40,"7'-10""","5'-2"""
+1,Mudroom,mudroom,no,4.54,6.21,2.34,1.94,49,"7'-8""","6'-4"""
+1,Open Kitchen,kitchen,no,9.31,11.07,2.34,3.98,100,"7'-8""","13'-1"""
+1,Covered Porch,porch,yes,8.8,8.8,4.0,2.2,95,"13'-1""","7'-3"""
+
+Total gross (indoor),,,,,76.2
+Total net (indoor),,,,61.92
+CONCEPT DESIGN — NOT FOR CONSTRUCTION OR PERMIT. Generated with AI and may contain errors. Verify all dimensions and code requirements with a licensed architect or engineer.

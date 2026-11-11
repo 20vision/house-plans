@@ -1,0 +1,18 @@
+Level,Room,Type,Outdoor,Net area (m2),Gross area (m2),Width (m),Depth (m),Net area (sq ft),Width,Depth
+1,Bedroom 2,bedroom,no,11.49,13.26,3.04,3.78,124,"10'-0""","12'-5"""
+1,Dining,dining,no,9.24,11.56,3.04,3.04,99,"10'-0""","10'-0"""
+1,Foyer,foyer,no,6.36,7.82,3.28,1.94,68,"10'-9""","6'-4"""
+1,Hall Bath (Roll-In Shower),bathroom,no,5.44,7.25,2.54,2.14,59,"8'-4""","7'-0"""
+1,Laundry,laundry,no,4.79,6.5,2.24,2.14,52,"7'-4""","7'-0"""
+1,Living Room,living,no,21.31,25.92,4.8,4.44,229,"15'-9""","14'-7"""
+1,Open Kitchen,kitchen,no,14.56,16.32,4.44,3.28,157,"14'-7""","10'-9"""
+1,Primary Bath (Roll-In Shower),ensuite,no,7.72,9.86,3.04,2.54,83,"10'-0""","8'-4"""
+1,Primary Bedroom,primary_bedroom,no,19.84,21.76,3.08,6.44,214,"10'-1""","21'-2"""
+1,Sunroom,family,no,9.97,11.56,3.28,3.04,107,"10'-9""","10'-0"""
+1,Walk-In Closet,walk_in_closet,no,6.17,6.8,1.88,3.28,66,"6'-2""","10'-9"""
+1,Wide Hall,hall,no,9.24,10.58,4.24,2.18,99,"13'-11""","7'-2"""
+1,Step-Free Front Porch,porch,yes,6.25,6.25,2.5,2.5,67,"8'-2""","8'-2"""
+
+Total gross (indoor),,,,,149.19
+Total net (indoor),,,,126.14
+CONCEPT DESIGN — NOT FOR CONSTRUCTION OR PERMIT. Generated with AI and may contain errors. Verify all dimensions and code requirements with a licensed architect or engineer.

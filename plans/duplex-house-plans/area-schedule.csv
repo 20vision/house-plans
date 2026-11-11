@@ -1,0 +1,25 @@
+Unit,Level,Room,Type,Outdoor,Net area (m2),Gross area (m2),Width (m),Depth (m),Net area (sq ft),Width,Depth
+A,1,Bathroom,bathroom,no,4.42,5.28,1.94,2.28,48,"6'-4""","7'-6"""
+A,1,Bedroom 1,primary_bedroom,no,10.94,13.94,3.6,3.04,118,"11'-10""","10'-0"""
+A,1,Bedroom 2,bedroom,no,9.75,11.89,3.84,2.54,105,"12'-7""","8'-4"""
+A,1,Bedroom Hall,hall,no,6.91,7.6,1.78,3.88,74,"5'-10""","12'-9"""
+A,1,Kitchen,kitchen,no,10.52,13.02,3.84,2.74,113,"12'-7""","9'-0"""
+A,1,Laundry Closet,laundry,no,2.87,3.52,1.94,1.48,31,"6'-4""","4'-10"""
+A,1,Living Room,living,no,20.89,24.36,3.84,5.44,225,"12'-7""","17'-10"""
+A,1,Covered Porch,porch,yes,5.88,5.88,4.2,1.4,63,"13'-9""","4'-7"""
+B,1,Bathroom,bathroom,no,4.42,5.28,1.94,2.28,48,"6'-4""","7'-6"""
+B,1,Bedroom 1,primary_bedroom,no,10.94,13.94,3.6,3.04,118,"11'-10""","10'-0"""
+B,1,Bedroom 2,bedroom,no,9.75,11.89,3.84,2.54,105,"12'-7""","8'-4"""
+B,1,Bedroom Hall,hall,no,6.91,7.6,1.78,3.88,74,"5'-10""","12'-9"""
+B,1,Kitchen,kitchen,no,10.52,13.02,3.84,2.74,113,"12'-7""","9'-0"""
+B,1,Laundry Closet,laundry,no,2.87,3.52,1.94,1.48,31,"6'-4""","4'-10"""
+B,1,Living Room,living,no,20.89,24.36,3.84,5.44,225,"12'-7""","17'-10"""
+B,1,Covered Porch,porch,yes,5.88,5.88,4.2,1.4,63,"13'-9""","4'-7"""
+
+Unit A gross (indoor),,,,,,79.61
+Unit A net (indoor),,,,,66.31
+Unit B gross (indoor),,,,,,79.61
+Unit B net (indoor),,,,,66.31
+Total gross (indoor),,,,,,159.22
+Total net (indoor),,,,,132.62
+CONCEPT DESIGN — NOT FOR CONSTRUCTION OR PERMIT. Generated with AI and may contain errors. Verify all dimensions and code requirements with a licensed architect or engineer.

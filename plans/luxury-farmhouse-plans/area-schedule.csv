@@ -1,0 +1,33 @@
+Level,Room,Type,Outdoor,Net area (m2),Gross area (m2),Width (m),Depth (m),Net area (sq ft),Width,Depth
+1,3-Car Garage,garage,no,51.09,54.67,7.58,6.74,550,"24'-10""","22'-1"""
+1,Butler's Pantry,pantry,no,7.14,7.8,2.48,2.88,77,"8'-2""","9'-5"""
+1,Dining,dining,no,13.8,16.66,3.04,4.54,149,"10'-0""","14'-11"""
+1,Foyer,foyer,no,11.42,13.5,2.34,4.88,123,"7'-8""","16'-0"""
+1,Great Room,living,no,39.86,43.61,8.78,4.54,429,"28'-10""","14'-11"""
+1,Hall,hall,no,8.31,9.62,7.04,1.18,89,"23'-1""","3'-10"""
+1,Kitchen with Island,kitchen,no,19.99,21.9,6.94,2.88,215,"22'-9""","9'-5"""
+1,Laundry,laundry,no,4.77,6.51,1.74,2.74,51,"5'-9""","9'-0"""
+1,Mudroom,mudroom,no,6.75,8.4,1.74,3.88,73,"5'-9""","12'-9"""
+1,Office,office,no,5.94,7.83,2.34,2.54,64,"7'-8""","8'-4"""
+1,Powder Room,half_bath,no,1.91,3.08,1.84,1.04,21,"6'-0""","3'-5"""
+1,Primary Bath,ensuite,no,9.14,10.92,4.08,2.24,98,"13'-5""","7'-4"""
+1,Primary Bedroom,primary_bedroom,no,21.68,23.68,7.04,3.08,233,"23'-1""","10'-1"""
+1,Primary Closet,walk_in_closet,no,6.36,8.32,2.84,2.24,68,"9'-4""","7'-4"""
+1,Stair,stair,no,6.57,7.2,2.28,2.88,71,"7'-6""","9'-5"""
+1,Front Porch,porch,yes,14.3,14.3,2.2,6.5,154,"7'-3""","21'-4"""
+2,Bedroom 2,bedroom,no,12.36,14.4,4.68,2.64,133,"15'-4""","8'-8"""
+2,Bedroom 2 Bath,ensuite,no,6.71,8.7,2.54,2.64,72,"8'-4""","8'-8"""
+2,Bedroom 3,bedroom,no,12.3,14.0,3.64,3.38,132,"11'-11""","11'-1"""
+2,Bedroom 3 Bath,ensuite,no,6.7,8.8,3.64,1.84,72,"11'-11""","6'-0"""
+2,Bedroom 4,bedroom,no,11.99,14.7,4.54,2.64,129,"14'-11""","8'-8"""
+2,Bedroom 5,bedroom,no,18.05,19.95,3.38,5.34,194,"11'-1""","17'-6"""
+2,Bonus Room,media,no,49.88,55.29,9.34,5.34,537,"30'-8""","17'-6"""
+2,Hall Bath,bathroom,no,5.49,6.6,2.08,2.64,59,"6'-10""","8'-8"""
+2,Linen / Storage,storage,no,5.3,6.3,4.14,1.28,57,"13'-7""","4'-2"""
+2,Stair,stair,no,6.02,7.2,2.28,2.64,65,"7'-6""","8'-8"""
+2,Upper Hall,hall,no,15.8,17.78,12.34,1.28,170,"40'-6""","4'-2"""
+2,Roof Below,terrace,yes,84.28,84.28,17.2,4.9,907,"56'-5""","16'-1"""
+
+Total gross (indoor),,,,,417.42
+Total net (indoor),,,,365.31
+CONCEPT DESIGN — NOT FOR CONSTRUCTION OR PERMIT. Generated with AI and may contain errors. Verify all dimensions and code requirements with a licensed architect or engineer.

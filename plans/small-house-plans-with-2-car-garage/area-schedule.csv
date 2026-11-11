@@ -1,0 +1,18 @@
+Level,Room,Type,Outdoor,Net area (m2),Gross area (m2),Width (m),Depth (m),Net area (sq ft),Width,Depth
+1,2-Car Garage,garage,no,30.1,37.72,3.5,8.6,324,"11'-6""","28'-3"""
+1,Bathroom,bathroom,no,3.86,4.76,1.58,2.44,42,"5'-2""","8'-0"""
+1,Bedroom 2,bedroom,no,10.25,12.71,2.74,3.74,110,"9'-0""","12'-3"""
+1,Bedroom Hall,hall,no,4.55,5.1,1.58,2.88,49,"5'-2""","9'-5"""
+1,Dining Nook,dining,no,8.42,9.8,2.68,3.14,91,"8'-10""","10'-4"""
+1,Foyer,foyer,no,3.95,5.58,1.44,2.74,43,"4'-9""","9'-0"""
+1,Kitchen,kitchen,no,9.36,11.18,4.18,2.24,101,"13'-9""","7'-4"""
+1,Laundry,laundry,no,4.33,5.25,1.38,3.14,47,"4'-6""","10'-4"""
+1,Living Room,living,no,22.76,24.82,3.28,6.94,245,"10'-9""","22'-9"""
+1,Primary Bath,ensuite,no,5.05,6.46,3.28,1.54,54,"10'-9""","5'-1"""
+1,Primary Bedroom,primary_bedroom,no,13.5,16.32,4.44,3.04,145,"14'-7""","10'-0"""
+1,Walk-in Closet,walk_in_closet,no,4.33,5.27,2.74,1.58,47,"9'-0""","5'-2"""
+1,Front Porch,porch,yes,7.75,7.75,2.5,3.1,83,"8'-2""","10'-2"""
+
+Total gross (indoor),,,,,144.97
+Total net (indoor),,,,120.45
+CONCEPT DESIGN — NOT FOR CONSTRUCTION OR PERMIT. Generated with AI and may contain errors. Verify all dimensions and code requirements with a licensed architect or engineer.

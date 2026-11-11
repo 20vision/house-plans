@@ -1,0 +1,27 @@
+Level,Room,Type,Outdoor,Net area (m2),Gross area (m2),Width (m),Depth (m)
+1,Bedroom 2,bedroom,no,12.75,14.31,2.58,4.94
+1,Bedroom 3,bedroom,no,12.55,15.37,2.54,4.94
+1,Bedroom 4,bedroom,no,13.24,14.84,2.68,4.94
+1,Bedroom Hall,hall,no,17.67,19.68,11.94,1.48
+1,Butler's Pantry,pantry,no,4.95,6.84,1.44,3.44
+1,Entry Foyer,foyer,no,10.56,12.04,2.68,3.94
+1,Family Bathroom,bathroom,no,6.2,6.82,2.98,2.08
+1,Family Room,family,no,33.62,36.19,4.58,7.34
+1,Garage (2-car),garage,no,33.0,36.04,6.68,4.94
+1,Kitchen,kitchen,no,18.64,21.09,3.34,5.58
+1,Laundry,laundry,no,6.12,7.22,1.78,3.44
+1,Lounge,living,no,34.78,37.35,4.38,7.94
+1,Master Bedroom,primary_bedroom,no,19.4,21.5,4.64,4.18
+1,Master Ensuite,ensuite,no,10.4,11.2,2.68,3.88
+1,Meals,dining,no,17.84,21.09,3.34,5.34
+1,Mudroom,mudroom,no,8.3,9.54,1.68,4.94
+1,Powder Room,half_bath,no,3.08,3.52,1.48,2.08
+1,Study,study,no,9.76,11.2,2.68,3.64
+1,Walk-in Robe,walk_in_closet,no,6.7,8.8,1.84,3.64
+1,Front Verandah,porch,yes,22.04,22.04,7.6,2.9
+1,Rear Verandah,porch,yes,22.04,22.04,7.6,2.9
+1,Side Verandah,porch,yes,15.95,15.95,5.5,2.9
+
+Total gross (indoor),,,,,314.64
+Total net (indoor),,,,279.53
+CONCEPT DESIGN — NOT FOR CONSTRUCTION OR PERMIT. Generated with AI and may contain errors. Verify all dimensions and code requirements with a licensed architect or engineer.

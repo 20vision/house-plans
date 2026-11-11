@@ -1,0 +1,27 @@
+Level,Room,Type,Outdoor,Net area (m2),Gross area (m2),Width (m),Depth (m),Net area (sq ft),Width,Depth
+1,2-Car Garage,garage,no,35.48,39.96,5.04,7.04,382,"16'-6""","23'-1"""
+1,Dining,dining,no,10.84,13.52,2.24,4.84,117,"7'-4""","15'-11"""
+1,Foyer,foyer,no,4.77,6.51,2.74,1.74,51,"9'-0""","5'-9"""
+1,Hall,hall,no,4.84,5.52,4.48,1.08,52,"14'-8""","3'-7"""
+1,Kitchen,kitchen,no,12.19,15.08,2.24,5.44,131,"7'-4""","17'-10"""
+1,Laundry,laundry,no,3.76,5.32,2.44,1.54,40,"8'-0""","5'-1"""
+1,Living Room,living,no,23.48,25.76,4.48,5.24,253,"14'-8""","17'-2"""
+1,Mudroom,mudroom,no,3.82,4.94,2.48,1.54,41,"8'-2""","5'-1"""
+1,Pantry,pantry,no,2.4,3.15,1.38,1.74,26,"4'-6""","5'-9"""
+1,Powder Room,half_bath,no,2.73,3.15,1.38,1.98,29,"4'-6""","6'-6"""
+1,Stair,stair,no,5.9,6.51,2.98,1.98,64,"9'-9""","6'-6"""
+1,Front Porch,porch,yes,9.18,9.18,5.4,1.7,99,"17'-9""","5'-7"""
+2,Bedroom 2,bedroom,no,9.15,11.47,2.74,3.34,98,"9'-0""","10'-11"""
+2,Bedroom 3,bedroom,no,10.79,13.5,5.04,2.14,116,"16'-6""","7'-0"""
+2,Hall Bath,bathroom,no,4.88,5.89,2.74,1.78,53,"9'-0""","5'-10"""
+2,Loft,playroom,no,8.06,10.23,2.74,2.94,87,"9'-0""","9'-8"""
+2,Primary Bath,ensuite,no,7.92,9.6,2.04,3.88,85,"6'-8""","12'-9"""
+2,Primary Bedroom,primary_bedroom,no,15.48,18.45,3.74,4.14,167,"12'-3""","13'-7"""
+2,Stair,stair,no,5.43,6.51,2.74,1.98,58,"9'-0""","6'-6"""
+2,Upstairs Hall,hall,no,9.61,11.05,1.18,8.14,103,"3'-10""","26'-8"""
+2,Walk-in Closet,walk_in_closet,no,6.13,6.8,1.58,3.88,66,"5'-2""","12'-9"""
+2,Roof Below,terrace,yes,45.1,45.1,4.1,11.0,485,"13'-5""","36'-1"""
+
+Total gross (indoor),,,,,222.92
+Total net (indoor),,,,187.63
+CONCEPT DESIGN — NOT FOR CONSTRUCTION OR PERMIT. Generated with AI and may contain errors. Verify all dimensions and code requirements with a licensed architect or engineer.

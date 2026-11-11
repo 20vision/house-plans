@@ -1,0 +1,29 @@
+Level,Room,Type,Outdoor,Net area (m2),Gross area (m2),Width (m),Depth (m),Net area (sq ft),Width,Depth
+1,2-Car Garage,garage,no,33.1,37.4,6.44,5.14,356,"21'-2""","16'-10"""
+1,Dining,dining,no,12.44,15.19,2.74,4.54,134,"9'-0""","14'-11"""
+1,Foyer,foyer,no,6.71,8.7,2.54,2.64,72,"8'-4""","8'-8"""
+1,Hall,hall,no,5.72,6.8,1.88,3.04,62,"6'-2""","10'-0"""
+1,Kitchen,kitchen,no,16.25,18.13,3.58,4.54,175,"11'-9""","14'-11"""
+1,Laundry,laundry,no,4.23,4.76,2.68,1.58,46,"8'-10""","5'-2"""
+1,Living Room,living,no,32.03,36.54,3.84,8.34,345,"12'-7""","27'-4"""
+1,Mudroom,mudroom,no,5.75,6.8,3.64,1.58,62,"11'-11""","5'-2"""
+1,Office,office,no,8.59,10.15,2.54,3.38,92,"8'-4""","11'-1"""
+1,Pantry,pantry,no,3.41,4.4,2.08,1.64,37,"6'-10""","5'-5"""
+1,Powder Room,half_bath,no,2.66,3.08,2.08,1.28,29,"6'-10""","4'-2"""
+1,Stair,stair,no,5.44,7.25,2.54,2.14,59,"8'-4""","7'-0"""
+1,Front Porch,porch,yes,8.99,8.99,2.9,3.1,97,"9'-6""","10'-2"""
+2,Bedroom 2,bedroom,no,11.64,14.5,5.44,2.14,125,"17'-10""","7'-0"""
+2,Bedroom 3,bedroom,no,10.87,13.0,5.08,2.14,117,"16'-8""","7'-0"""
+2,Bedroom 4,bedroom,no,10.91,12.71,3.98,2.74,117,"13'-1""","9'-0"""
+2,Hall Bath,bathroom,no,5.59,6.63,3.54,1.58,60,"11'-7""","5'-2"""
+2,Loft,playroom,no,11.89,14.57,4.34,2.74,128,"14'-3""","9'-0"""
+2,Primary Bath,ensuite,no,8.48,10.73,2.54,3.34,91,"8'-4""","10'-11"""
+2,Primary Bedroom,primary_bedroom,no,18.36,21.42,4.5,4.08,198,"14'-9""","13'-5"""
+2,Stair,stair,no,5.44,7.25,2.54,2.14,59,"8'-4""","7'-0"""
+2,Upper Hall,hall,no,15.23,17.0,9.64,1.58,164,"31'-8""","5'-2"""
+2,Walk-in Closet,walk_in_closet,no,6.15,8.14,1.84,3.34,66,"6'-0""","10'-11"""
+2,Roof Below,terrace,yes,42.24,42.24,8.8,4.8,455,"28'-10""","15'-9"""
+
+Total gross (indoor),,,,,285.15
+Total net (indoor),,,,240.88
+CONCEPT DESIGN — NOT FOR CONSTRUCTION OR PERMIT. Generated with AI and may contain errors. Verify all dimensions and code requirements with a licensed architect or engineer.

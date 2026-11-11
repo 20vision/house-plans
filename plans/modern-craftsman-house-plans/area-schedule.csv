@@ -1,0 +1,23 @@
+Level,Room,Type,Outdoor,Net area (m2),Gross area (m2),Width (m),Depth (m),Net area (sq ft),Width,Depth
+1,2-Car Garage,garage,no,31.05,35.2,6.04,5.14,334,"19'-10""","16'-10"""
+1,Bedroom 2,bedroom,no,9.61,12.04,2.44,3.94,103,"8'-0""","12'-11"""
+1,Bedroom 3,bedroom,no,10.48,12.0,3.64,2.88,113,"11'-11""","9'-5"""
+1,Bedroom Hall,hall,no,9.24,9.99,2.58,3.58,99,"8'-6""","11'-9"""
+1,Dining,dining,no,11.46,14.1,4.34,2.64,123,"14'-3""","8'-8"""
+1,Foyer,foyer,no,6.18,8.1,2.34,2.64,67,"7'-8""","8'-8"""
+1,Great Room,living,no,29.54,31.85,3.38,8.74,318,"11'-1""","28'-8"""
+1,Hall Bath,bathroom,no,4.59,5.6,2.44,1.88,49,"8'-0""","6'-2"""
+1,Kitchen with Island,kitchen,no,15.1,16.92,4.34,3.48,163,"14'-3""","11'-5"""
+1,Laundry,laundry,no,4.67,5.22,2.78,1.68,50,"9'-1""","5'-6"""
+1,Mudroom,mudroom,no,5.73,7.38,1.44,3.98,62,"4'-9""","13'-1"""
+1,Office,office,no,9.08,10.8,2.34,3.88,98,"7'-8""","12'-9"""
+1,Pantry,pantry,no,3.23,3.68,1.48,2.18,35,"4'-10""","7'-2"""
+1,Powder Room,half_bath,no,2.57,2.99,1.18,2.18,28,"3'-10""","7'-2"""
+1,Primary Bath,ensuite,no,7.79,10.0,3.64,2.14,84,"11'-11""","7'-0"""
+1,Primary Bedroom,primary_bedroom,no,16.35,18.15,3.18,5.14,176,"10'-5""","16'-10"""
+1,Walk-in Closet,walk_in_closet,no,5.0,5.6,3.38,1.48,54,"11'-1""","4'-10"""
+1,Front Porch,porch,yes,12.32,12.32,2.8,4.4,133,"9'-2""","14'-5"""
+
+Total gross (indoor),,,,,209.62
+Total net (indoor),,,,181.66
+CONCEPT DESIGN — NOT FOR CONSTRUCTION OR PERMIT. Generated with AI and may contain errors. Verify all dimensions and code requirements with a licensed architect or engineer.
