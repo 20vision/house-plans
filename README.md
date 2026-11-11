@@ -27,7 +27,7 @@
 
 ## Use
 
-The files are free to download and to use for ideas, study and research, the same terms as on the site. If you share a plan or publish work that uses these files, please link to the plan's page or to this repository. For anything else, write to us through the [contact page](https://floorplan.ai-architectures.com/contact).
+The files are free to download and to use for ideas, study and research, the same terms as on the site. If you share a plan or publish work that uses these files, please link to the plan's page or to this repository. For anything else, write to us through the [support page](https://floorplan.ai-architectures.com/support).
 
 ## Change a plan
 
