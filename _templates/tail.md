@@ -18,6 +18,7 @@ Every plan's page has a tool that changes rooms, style or layout and exports the
 ## Related
 
 - [Gallery of all plans](https://20vision.github.io/house-plans/): name, area, bedrooms, one link per plan
+- [Plan books (PDF)](https://20vision.github.io/house-plans/books/): ten PDF books of 22 to 30 plans each
 - [AI Architectures page for this project](https://floorplan.ai-architectures.com/house-plans?utm_source=github&utm_medium=probe&utm_campaign=house-plans)
 - [ai-architectures-desktop](https://github.com/20vision/ai-architectures-desktop): AI Architectures desktop app
 - [skills](https://github.com/20vision/skills): agent skills: house plans, floor plan CAD, WCAG audit
